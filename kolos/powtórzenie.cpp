@@ -1,4 +1,4 @@
-zad 1.
+//zad 1.
 
 #include <iostream>
 
@@ -16,7 +16,7 @@ int main()
     return 0;
 }
 
-zad 2.
+//zad 2.
 
 #include <iostream>
 
@@ -34,7 +34,7 @@ int main()
     return 0;
 }
 
-zad 3.
+//zad 3.
 
 #include <iostream>
 
@@ -52,7 +52,7 @@ int main()
     return 0;
 }
 
-zad 4.
+//zad 4.
 
 #include <iostream>
 #include <ctime>
@@ -76,7 +76,7 @@ int main()
     return 0;
 }
 
-zad 5.
+//zad 5.
 
 #include <iostream>
 #include <ctime>
@@ -99,7 +99,7 @@ int main()
     return 0;
 }
 
-zad 6.
+//zad 6.
 
 #include <iostream>
 #include <ctime>
@@ -130,7 +130,7 @@ int main()
     return 0;
 }
 
-zad 7.
+//zad 7.
 
 #include <iostream>
 #include <ctime>
@@ -157,7 +157,7 @@ int main()
     return 0;
 }
 
-zad 8.
+//zad 8.
 
 #include <iostream>
 
@@ -172,7 +172,7 @@ int main()
     cout<<naj;
     return 0;
 }
-zad 9 .
+//zad 9.
 
 #include <iostream>
 
@@ -214,7 +214,7 @@ int main()
 
 
 
-zad 10.
+//zad 10.
 
 #include <iostream>
 
